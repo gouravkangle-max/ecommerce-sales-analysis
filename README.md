@@ -29,11 +29,11 @@ Python (pandas, matplotlib, seaborn), SQL (SQLite), Power BI, GitHub
 ![Dashboard](dashboards/screenshots/dashboard.png)
 
 ## Key Findings
-- Revenue peaked in [month, year] at [value].
-- The top 3 categories generate [X]% of total revenue.
-- [X]% of customers bought only once.
-- Late deliveries lowered the average review score from [X] to [Y].
-- [State names] contribute [X]% of revenue.
+- Revenue peaked in May at 1.7M+.
+- The top 3 categories (health_beauty, watches_gifts, bed_bath_table) generate the highest proportion of total revenue.
+- Credit card is the primary payment method, accounting for 75.89% (73K) of total orders.
+- Late deliveries significantly lowered the average review score from 4.25 to 2.50.
+- Top performing state (SP) accounts for the largest share of total revenue.
 
 ## Recommendations
 - Plan inventory and marketing ahead of peak months.
